@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Classmates</string>
+    <string name="add_but">+ Добавить студента</string>
+    <string name="top_text">Список студентов</string>
+    <string name="middle_text">Студент</string>
+    <string name="del_but">Удалить</string>
+    <string name="save_but">Сохранить</string>
+    <string name="gender">Мужской пол</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+</resources>
